@@ -38,6 +38,9 @@ img {
 main {
     height: 100dvh;
     background-color: var(--color-dark-cyan);
+    background-image: url("../assets/images/bg-pattern-top.svg"), url("../assets/images/bg-pattern-bottom.svg");
+    background-position: right 52vw bottom 35vh, 50vw 50vh;
+    background-repeat: no-repeat;
     display: grid;
     place-items: center;
 }
