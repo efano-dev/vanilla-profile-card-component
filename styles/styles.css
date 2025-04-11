@@ -16,7 +16,9 @@
     --fw-bold: 700;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
@@ -25,7 +27,9 @@ body {
     font-family: "Kumbh Sans";
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
     margin: 0;
 }
 
@@ -39,7 +43,9 @@ main {
     height: 100dvh;
     background-color: var(--color-dark-cyan);
     background-image: url("../assets/images/bg-pattern-top.svg"), url("../assets/images/bg-pattern-bottom.svg");
-    background-position: right 52vw bottom 35vh, 50vw 50vh;
+    background-position:
+        right 52vw bottom 35vh,
+        50vw 50vh;
     background-repeat: no-repeat;
     display: grid;
     place-items: center;
@@ -85,7 +91,8 @@ main {
     margin-bottom: 0.5625rem;
 }
 
-.card__h1, .card__h2 {
+.card__h1,
+.card__h2 {
     font-size: var(--fs-1);
     font-weight: var(--fw-bold);
     color: var(--color-very-dark-desaturated-blue);

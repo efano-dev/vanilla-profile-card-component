@@ -1,15 +1,15 @@
 # Frontend Mentor - Profile Card Component Solution
 
-This is a solution to the [Profile Card Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile Card Component Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+    - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -22,10 +22,6 @@ This is a solution to the [Profile Card Component Challenge on Frontend Mentor](
 
 ![](./assets/images/profile-card-component-screenshot-desktop.png)
 ![](./assets/images/profile-card-component-screenshot-mobile.png)
-
-### Links
-
-- Live Site URL: [Profile Card Component](https://efano-dev.github.io/vanilla-profile-card-component/)
 
 ## My process
 
